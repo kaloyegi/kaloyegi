@@ -1,6 +1,7 @@
 ## 👋 Привет!
-
 ### Я Эгиев Калой!
+
+### Системный Аналитик | Бизнес аналитик | Менеджер по внедрению | ИТ-поддержка 2-3 линии
 
 С 10-летним опытом работы в ИТ, включая поддержку 2–3-й линии, развитие корпоративных порталов и аналитических систем в крупном ритейле и международных компаниях. Имеется опыт в Системном анализе и Бизнес-анализе по учебным курсам нетологии и менторингу. По опыту учебных курсов и практики проектирую API, сокращаю сроки разработки и стандартизирую бизнес‑процессы, а в продакшене поддерживаю и развиваю аналитические сервисы. Силен в Agile, SQL и интеграциях: работаю с PostgreSQL, сложными запросами и витринами. Быстро перевожу идеи бизнеса в рабочие IT решения: от сбора требований и моделирования процессов до внедрения, мониторинга и снижения количества инцидентов.
 
@@ -71,11 +72,14 @@
 
 ## 🎓 Образование и сертификаты
 - Мое портфолио: https://app.holst.so/share/b/18efcac1-ecc0-4c61-8790-cd3c1a468230
+- Мое резюме: [Egiev_Kaloy_CV_резюме.pdf](https://github.com/user-attachments/files/26307143/Egiev_Kaloy_CV_.pdf)
+
 ---
 ## 📞 Контакты
 
 - 📧 **Email:** ekm9292@mail.ru
 - 🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaloy)
 - 🐙 **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kaloyegi/)
-- ✈️ **Telegram**: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kaloy)  
+- ✈️ **Telegram**: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kaloy)
+- 📱 **Tel**: <details><summary>Показать номер</summary>+7(903)966-99-58</details>
 
