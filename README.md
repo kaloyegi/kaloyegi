@@ -81,5 +81,4 @@
 - 🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaloy)
 - 🐙 **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kaloyegi/)
 - ✈️ **Telegram**: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kaloy)
-- 📱 **Tel**: <details><summary>Показать номер</summary>+7(903)966-99-58</details>
 
