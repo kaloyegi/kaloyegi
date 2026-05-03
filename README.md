@@ -73,6 +73,8 @@
 ## 🎓 Образование и сертификаты
 - Мое портфолио: https://app.holst.so/share/b/18efcac1-ecc0-4c61-8790-cd3c1a468230
 - Мое резюме: [Egiev_Kaloy_CV_резюме.pdf](https://github.com/user-attachments/files/26307143/Egiev_Kaloy_CV_.pdf)
+- Мое резюме:  [Egiev_Kaloy_CV_ (3).pdf](https://github.com/user-attachments/files/27310332/Egiev_Kaloy_CV_.3.pdf)
+
 
 ---
 ## 📞 Контакты
